@@ -64,11 +64,11 @@ function chatBot() {
 									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
 									<li>Maintain at least 1 metre (3 feet) distance between yourself and others.</li>
 									<li>Avoid going to crowded places.</li>
-									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
-									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
-									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
-									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
-									<li>Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.</li>
+									 <li>Stay home if you feel unwell.</li>
+									<li>If you have a fever, cough and difficulty breathing, seek medical attention. Call in advance.</li>
+									<li>Follow the directions of your local health authority.
+			</li>
+	
 								</ul>
 								`;
 		if(this.match('l(ol)+') || this.match('(ha)+(h|$)') || this.match('lmao'))
