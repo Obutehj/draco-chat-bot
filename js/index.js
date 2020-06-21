@@ -2,7 +2,7 @@ $(function() {
 
 	// chat aliases
 	var you = 'You';
-	var robot = 'Buddy';
+	var robot = 'Draco Bot';
 	
 	// slow reply by 400 to 800 ms
 	var delayStart = 400;
